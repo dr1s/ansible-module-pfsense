@@ -1,0 +1,12 @@
+namespace: "bevhost"
+name: "ansible-module-pfsense"
+version: "1.0"
+readme: "README.md"
+authors:
+    - "bevhost"
+license:
+    - "GPL-3.0"
+tags:
+    - pfsense
+    - collection
+repository: "https://github.com/bevhost/ansible-module-pfsense"
